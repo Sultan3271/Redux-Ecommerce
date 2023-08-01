@@ -19,7 +19,7 @@ This is a simple React Native e-commerce app that allows users to browse and pur
 1. Clone the repository:
 2. download APK file
 
-##Dependencies
+## Dependencies
 - React Native
 - React Navigation
 - Redux Toolkit
